@@ -1,3 +1,4 @@
-streamlit
+notebook
 openai
 python-dotenv
+chromadb
